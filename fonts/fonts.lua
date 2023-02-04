@@ -1,0 +1,5 @@
+    smallFont = love.graphics.newFont('fonts/font.ttf', 8)
+    largeFont = love.graphics.newFont('fonts/font.ttf', 16)
+    scoreFont = love.graphics.newFont('fonts/font.ttf', 32)
+    mainFont = love.graphics.newFont('fonts/LuckiestGuy-Regular.ttf',25)
+    capitalFont=love.graphics.newFont('fonts/LuckiestGuy-Regular.ttf',32)
